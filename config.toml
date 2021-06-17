@@ -1,4 +1,4 @@
-baseurl = "https://stahlman.netlify.app"
+baseurl = "/"
 title = "Hugo Tanka Theme Demo"
 author = "Nan Xiao"
 canonifyurls = true
